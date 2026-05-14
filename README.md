@@ -1,1 +1,0 @@
-# YADRO_telecom_test
